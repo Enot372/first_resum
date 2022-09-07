@@ -1,0 +1,16 @@
+.nav {
+    grid-area: n;
+    background-color: burlywood;
+}
+
+.item {
+    margin-left: 20px;
+}
+
+.item.active {
+    color: gold;
+}
+a{
+    text-decoration: none;
+    color: #382a2a;
+}
